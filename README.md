@@ -1,4 +1,4 @@
-\# CloudElo (Teórico)
+# CloudElo (Teórico)
 
 
 
@@ -14,7 +14,7 @@ O projeto busca integrar educação, desenvolvimento profissional e empregabilid
 
 
 
-\## Propósito
+## Propósito
 
 
 
@@ -30,7 +30,7 @@ A proposta parte do princípio de que a empregabilidade não depende apenas da e
 
 
 
-\## Problema
+## Problema
 
 
 
@@ -38,21 +38,21 @@ O público atendido pode encontrar diferentes obstáculos durante sua trajetóri
 
 
 
-\- dificuldade de acesso à capacitação;
+- dificuldade de acesso à capacitação;
 
-\- falta de ambientes adequados e acolhedores para estudar;
+- falta de ambientes adequados e acolhedores para estudar;
 
-\- ausência de estímulo e apoio à continuidade dos estudos;
+- ausência de estímulo e apoio à continuidade dos estudos;
 
-\- insegurança em processos seletivos;
+- insegurança em processos seletivos;
 
-\- dificuldade de acesso à orientação profissional;
+- dificuldade de acesso à orientação profissional;
 
-\- falta de experiência profissional;
+- falta de experiência profissional;
 
-\- dificuldade para transformar conhecimentos em oportunidades;
+- dificuldade para transformar conhecimentos em oportunidades;
 
-\- barreiras de inclusão e permanência no mercado de trabalho.
+- barreiras de inclusão e permanência no mercado de trabalho.
 
 
 
@@ -64,7 +64,7 @@ O CloudElo busca atuar justamente na conexão entre essas necessidades.
 
 
 
-\## Proposta de valor
+## Proposta de valor
 
 
 
@@ -76,25 +76,25 @@ Em vez de concentrar sua atuação apenas em cursos ou vagas, o projeto integra:
 
 
 
-\- capacitação técnica;
+- capacitação técnica;
 
-\- desenvolvimento de competências comportamentais;
+- desenvolvimento de competências comportamentais;
 
-\- estímulo aos estudos;
+- estímulo aos estudos;
 
-\- trilhas de aprendizagem;
+- trilhas de aprendizagem;
 
-\- preparação para processos seletivos;
+- preparação para processos seletivos;
 
-\- orientação profissional;
+- orientação profissional;
 
-\- desenvolvimento de perfil;
+- desenvolvimento de perfil;
 
-\- conexão com empresas;
+- conexão com empresas;
 
-\- acesso a oportunidades;
+- acesso a oportunidades;
 
-\- workshops e palestras.
+- workshops e palestras.
 
 
 
@@ -110,7 +110,7 @@ Para as empresas, a plataforma possibilita aproximação com profissionais em de
 
 
 
-\## Público-alvo
+## Público-alvo
 
 
 
@@ -130,7 +130,7 @@ Embora o projeto tenha um público prioritário, os conteúdos educacionais pode
 
 
 
-\## Funcionalidades
+## Funcionalidades
 
 
 
@@ -138,41 +138,41 @@ A plataforma será composta por diferentes áreas integradas, incluindo:
 
 
 
-\- cadastro de pessoas físicas e empresas;
+- cadastro de pessoas físicas e empresas;
 
-\- perfis profissionais;
+- perfis profissionais;
 
-\- gerenciamento de competências e formações;
+- gerenciamento de competências e formações;
 
-\- cursos gratuitos;
+- cursos gratuitos;
 
-\- trilhas de aprendizagem;
+- trilhas de aprendizagem;
 
-\- conteúdos multimídia;
+- conteúdos multimídia;
 
-\- atividades e avaliações;
+- atividades e avaliações;
 
-\- acompanhamento de progresso;
+- acompanhamento de progresso;
 
-\- preparação para entrevistas e processos seletivos;
+- preparação para entrevistas e processos seletivos;
 
-\- direcionamento profissional;
+- direcionamento profissional;
 
-\- divulgação de vagas;
+- divulgação de vagas;
 
-\- oportunidades de emprego e estágio;
+- oportunidades de emprego e estágio;
 
-\- conexão entre candidatos e empresas;
+- conexão entre candidatos e empresas;
 
-\- workshops e palestras;
+- workshops e palestras;
 
-\- atividades presenciais e digitais;
+- atividades presenciais e digitais;
 
-\- acompanhamento da evolução dos estudantes;
+- acompanhamento da evolução dos estudantes;
 
-\- assistente virtual Helena;
+- assistente virtual Helena;
 
-\- recursos de acessibilidade e direcionamento.
+- recursos de acessibilidade e direcionamento.
 
 
 
@@ -188,7 +188,7 @@ Estudar → Desenvolver → Conectar → Trabalhar → Permanecer e evoluir
 
 
 
-\## Capacitação
+## Capacitação
 
 
 
@@ -196,55 +196,55 @@ O CloudElo pretende disponibilizar conteúdos do nível básico ao intermediári
 
 
 
-\### Desenvolvimento profissional
+### Desenvolvimento profissional
 
 
 
-\- Pacote Office
+- Pacote Office
 
-\- Comunicação profissional e autoconfiança
+- Comunicação profissional e autoconfiança
 
-\- Organização e rotina de trabalho
+- Organização e rotina de trabalho
 
-\- Atendimento ao cliente
+- Atendimento ao cliente
 
-\- Introdução ao mercado corporativo
+- Introdução ao mercado corporativo
 
-\- Saúde mental no ambiente profissional
+- Saúde mental no ambiente profissional
 
-\- Preparação para entrevistas e processos seletivos
-
-
-
-\### Áreas profissionais
+- Preparação para entrevistas e processos seletivos
 
 
 
-\- Rotina de Escritório
-
-\- Processos Logísticos
-
-\- Gestão Comercial e Vendas
-
-\- Marketing
-
-\- Finanças
-
-\- Produção e Operação
-
-\- Controle de Prazos
-
-\- Recursos Humanos
-
-\- Jurídico
-
-\- Compras
-
-\- Tecnologia da Informação
+### Áreas profissionais
 
 
 
-\### Tecnologia da Informação
+- Rotina de Escritório
+
+- Processos Logísticos
+
+- Gestão Comercial e Vendas
+
+- Marketing
+
+- Finanças
+
+- Produção e Operação
+
+- Controle de Prazos
+
+- Recursos Humanos
+
+- Jurídico
+
+- Compras
+
+- Tecnologia da Informação
+
+
+
+### Tecnologia da Informação
 
 
 
@@ -252,29 +252,29 @@ A trilha de TI também contemplará fundamentos de:
 
 
 
-\- Lógica de Programação
+- Lógica de Programação
 
-\- Fundamentos da Computação
+- Fundamentos da Computação
 
-\- Redes
+- Redes
 
-\- Git/Github
+- Git/Github
 
-\- Linguagens como Python, Java, HTML, C#, C++, R
+- Linguagens como Python, Java, HTML, C#, C++, R
 
-\- Fundamentos de CyberSecurity
+- Fundamentos de CyberSecurity
 
-\- Bancos de Dados
+- Bancos de Dados
 
-\- API's
+- API's
 
-\- Cloud
+- Cloud
 
-\- Arquitetura de Softwares
+- Arquitetura de Softwares
 
-\- Docker
+- Docker
 
-\- QA
+- QA
 
 
 
@@ -286,7 +286,7 @@ O objetivo é proporcionar uma base introdutória que permita ao estudante compr
 
 
 
-\## Ecossistema
+## Ecossistema
 
 
 
@@ -344,7 +344,7 @@ Essa estrutura permite conectar pessoas, conhecimento e oportunidades.
 
 
 
-\## Sustentabilidade
+## Sustentabilidade
 
 
 
@@ -356,15 +356,15 @@ Para garantir sua continuidade, poderão ser utilizados diferentes modelos de su
 
 
 
-\- patrocínios empresariais;
+- patrocínios empresariais;
 
-\- parcerias institucionais;
+- parcerias institucionais;
 
-\- serviços B2B;
+- serviços B2B;
 
-\- investimentos próprios ou aportes iniciais;
+- investimentos próprios ou aportes iniciais;
 
-\- programas de capacitação patrocinados por empresas.
+- programas de capacitação patrocinados por empresas.
 
 
 
@@ -376,7 +376,7 @@ A intenção é manter a capacitação acessível ao público-alvo sem depender 
 
 
 
-\## Segurança e privacidade
+## Segurança e privacidade
 
 
 
@@ -392,7 +392,7 @@ A plataforma deverá seguir boas práticas relacionadas ao tratamento de informa
 
 
 
-\## Assistente virtual Helena
+## Assistente virtual Helena
 
 
 
@@ -412,7 +412,7 @@ A proposta é que a assistente seja uma facilitadora da jornada do usuário, e n
 
 
 
-\## Tecnologia
+## Tecnologia
 
 
 
@@ -420,7 +420,7 @@ O CloudElo é desenvolvido como uma aplicação web.
 
 
 
-\### Front-end
+### Front-end
 
 
 
@@ -428,7 +428,7 @@ O front-end da plataforma é desenvolvido e aprimorado conforme os requisitos fu
 
 
 
-\### Back-end e dados
+### Back-end e dados
 
 
 
@@ -436,21 +436,21 @@ A arquitetura utiliza serviços de backend e banco de dados para suportar funcio
 
 
 
-\- autenticação;
+- autenticação;
 
-\- usuários;
+- usuários;
 
-\- perfis;
+- perfis;
 
-\- empresas;
+- empresas;
 
-\- cursos;
+- cursos;
 
-\- progresso;
+- progresso;
 
-\- oportunidades;
+- oportunidades;
 
-\- relacionamentos entre entidades.
+- relacionamentos entre entidades.
 
 
 
@@ -462,7 +462,7 @@ A arquitetura utiliza serviços de backend e banco de dados para suportar funcio
 
 
 
-\## Status do projeto
+## Status do projeto
 
 
 
@@ -482,95 +482,95 @@ O desenvolvimento inicial possui como objetivo validar o conceito e estruturar u
 
 
 
-\## Roadmap que estou seguindo
+## Roadmap que estou seguindo
 
 
 
-\### Fase 1 — Conceito
+### Fase 1 — Conceito
 
 
 
-\- \[x] Definição do propósito
+- [x] Definição do propósito
 
-\- \[x] Definição do público-alvo
+- [x] Definição do público-alvo
 
-\- \[x] Definição da persona
+- [x] Definição da persona
 
-\- \[x] Proposta de valor
+- [x] Proposta de valor
 
-\- \[x] Estrutura inicial das áreas
+- [x] Estrutura inicial das áreas
 
-\- \[x] Identidade do projeto
-
-
-
-\### Fase 2 — Plataforma
+- [x] Identidade do projeto
 
 
 
-\- \[x] Desenvolvimento inicial da interface
-
-\- \[ ] Estruturação completa dos cadastros
-
-\- \[ ] Implementação das áreas educacionais
-
-\- \[ ] Implementação dos perfis profissionais
-
-\- \[ ] Sistema de oportunidades
-
-\- \[ ] Integração entre candidatos e empresas
-
-\- \[ ] Assistente Helena
-
-\- \[ ] Recursos de acessibilidade
+### Fase 2 — Plataforma
 
 
 
-\### Fase 3 — Conteúdo
+- [x] Desenvolvimento inicial da interface
+
+- [ ] Estruturação completa dos cadastros
+
+- [ ] Implementação das áreas educacionais
+
+- [ ] Implementação dos perfis profissionais
+
+- [ ] Sistema de oportunidades
+
+- [ ] Integração entre candidatos e empresas
+
+- [ ] Assistente Helena
+
+- [ ] Recursos de acessibilidade
 
 
 
-\- \[ ] Produção dos cursos
-
-\- \[ ] Estruturação das trilhas
-
-\- \[ ] Atividades e avaliações
-
-\- \[ ] Certificação
-
-\- \[ ] Conteúdos complementares
+### Fase 3 — Conteúdo
 
 
 
-\### Fase 4 — Validação
+- [ ] Produção dos cursos
+
+- [ ] Estruturação das trilhas
+
+- [ ] Atividades e avaliações
+
+- [ ] Certificação
+
+- [ ] Conteúdos complementares
 
 
 
-\- \[ ] Testes com usuários
-
-\- \[ ] Avaliação de acessibilidade
-
-\- \[ ] Testes de segurança
-
-\- \[ ] Validação da experiência do usuário
-
-\- \[ ] Correções e melhorias
+### Fase 4 — Validação
 
 
 
-\### Fase 5 — Expansão
+- [ ] Testes com usuários
+
+- [ ] Avaliação de acessibilidade
+
+- [ ] Testes de segurança
+
+- [ ] Validação da experiência do usuário
+
+- [ ] Correções e melhorias
 
 
 
-\- \[ ] Parcerias institucionais
+### Fase 5 — Expansão
 
-\- \[ ] Parcerias empresariais
 
-\- \[ ] Workshops e palestras
 
-\- \[ ] Programas de capacitação patrocinada
+- [ ] Parcerias institucionais
 
-\- \[ ] Expansão para outras localidades
+- [ ] Parcerias empresariais
+
+- [ ] Workshops e palestras
+
+- [ ] Programas de capacitação patrocinada
+
+- [ ] Expansão para outras localidades
 
 
 
@@ -578,7 +578,7 @@ O desenvolvimento inicial possui como objetivo validar o conceito e estruturar u
 
 
 
-\## Objetivo de longo prazo
+## Objetivo de longo prazo
 
 
 
@@ -594,7 +594,7 @@ A visão de longo prazo é construir uma plataforma capaz de conectar educação
 
 
 
-\## Contribuição
+## Contribuição
 
 
 
@@ -602,23 +602,23 @@ O projeto encontra-se em desenvolvimento e poderá receber contribuições relac
 
 
 
-\- desenvolvimento de software;
+- desenvolvimento de software;
 
-\- acessibilidade;
+- acessibilidade;
 
-\- segurança;
+- segurança;
 
-\- educação;
+- educação;
 
-\- produção e revisão de conteúdos;
+- produção e revisão de conteúdos;
 
-\- design;
+- design;
 
-\- empregabilidade;
+- empregabilidade;
 
-\- pesquisa;
+- pesquisa;
 
-\- parcerias institucionais.
+- parcerias institucionais.
 
 
 
@@ -630,7 +630,7 @@ Sugestões, melhorias e contribuições podem ser registradas por meio das ferra
 
 
 
-\## Projeto acadêmico
+## Projeto acadêmico
 
 
 
@@ -646,7 +646,7 @@ O projeto também possui caráter exclusivamente experimental e social, buscando
 
 
 
-\## Licença
+## Licença
 
 
 
@@ -656,7 +656,7 @@ Em avaliação.
 
 &#x20;
 
-\## Contato
+## Contato
 
 
 
