@@ -186,7 +186,110 @@ Estudar → Desenvolver → Conectar → Trabalhar → Permanecer e evoluir
 
 &#x20;
 
+## Arquitetura
 
+### Estrutura do Projeto
+
+```text
+cloudelo/
+│
+├── index.html
+│
+├── assets/
+│   ├── images/
+│   ├── icons/
+│   └── fonts/
+│
+├── css/
+│   ├── main.css
+│   │
+│   ├── base/
+│   │   ├── reset.css
+│   │   ├── variables.css
+│   │   ├── typography.css
+│   │   └── utilities.css
+│   │
+│   ├── components/
+│   │   ├── buttons.css
+│   │   ├── cards.css
+│   │   ├── forms.css
+│   │   ├── modal.css
+│   │   ├── navbar.css
+│   │   ├── sidebar.css
+│   │   ├── alerts.css
+│   │   └── badges.css
+│   │
+│   ├── layout/
+│   │   ├── header.css
+│   │   ├── footer.css
+│   │   ├── container.css
+│   │   └── grid.css
+│   │
+│   └── pages/
+│       ├── capacitacao.css
+│       ├── conexao.css
+│       ├── estudos.css
+│       ├── home.css
+│       ├── login.css
+│       ├── perfil.css
+│       └── sustentacao.css
+│
+├── js/
+│   ├── app.js
+│   │
+│   ├── config/
+│   │   └── config.js
+│   │
+│   ├── core/
+│   │   ├── router.js
+│   │   ├── storage.js
+│   │   ├── state.js
+│   │   └── events.js
+│   │
+│   ├── components/
+│   │   ├── header.js
+│   │   ├── sidebar.js
+│   │   ├── footer.js
+│   │   ├── modal.js
+│   │   ├── card.js
+│   │   └── notification.js
+│   │
+│   ├── pages/
+│   │   ├── capacitacao.js
+│   │   ├── conexao.js
+│   │   ├── estudos.js
+│   │   ├── home.js
+│   │   ├── login.js
+│   │   ├── perfil.js
+│   │   └── sustentacao.js
+│   │
+│   ├── services/
+│   │   ├── auth.js
+│   │   ├── courses.js
+│   │   ├── events.js
+│   │   ├── jobs.js
+│   │   └── users.js
+│   │
+│   └── utils/
+│       ├── formatters.js
+│       ├── validators.js
+│       └── helpers.js
+│
+├── data/
+│   ├── users.json
+│   ├── courses.json
+│   ├── jobs.json
+│   └── events.json
+│
+└── pages/
+    ├── capacitacao.html
+    ├── conexao.html
+    ├── estudos.html
+    ├── home.html
+    ├── login.html
+    ├── perfil.html
+    └── sustentacao.html
+```
 
 ## Capacitação
 
